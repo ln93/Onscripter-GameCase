@@ -141,13 +141,13 @@ SDLKey transJoystickButton(Uint8 button)
         SDLK_a,   /* START     */
         SDLK_SPACE,  /* L2       */
         SDLK_RETURN, /* R2       */
-        SDLK_UNKNOWN,      /* L1       */
-        SDLK_UNKNOWN,      /* R1       */
-        SDLK_UNKNOWN, /* TRIANGLE */
-        SDLK_UNKNOWN, /* CIRCLE   */
-        SDLK_UNKNOWN,  /* CROSS    */
-        SDLK_UNKNOWN,  /* SQUARE   */
-        SDLK_UNKNOWN,/* PS       */
+        SDLK_UNKNOWN, 
+        SDLK_UNKNOWN,     
+        SDLK_UNKNOWN, 
+        SDLK_UNKNOWN, 
+        SDLK_UNKNOWN, 
+        SDLK_UNKNOWN, 
+        SDLK_UNKNOWN,
         SDLK_UNKNOWN,
         SDLK_UNKNOWN,
     };
