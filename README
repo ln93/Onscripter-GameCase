@@ -1,6 +1,6 @@
 ONScripter-GameCase
 在Jh的基础上为GameCase（3.2 inch）进行了按键适配。
-编译时需要SDL全家桶。
+源代码需要在树莓派上本地编译（没关系，非常快），编译时需要SDL全家桶。
 对于其他设备的SDL手柄而言，你需要修改Onscripter-event.cpp。
 
 关于一般按键：
