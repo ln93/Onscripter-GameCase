@@ -1,7 +1,12 @@
 ONScripter-GameCase
 在Jh的基础上为GameCase（3.2 inch）进行了按键适配。
 编译时需要SDL全家桶。
+对于其他设备的SDL手柄而言，你需要修改Onscripter-event.cpp。
 
+找到“GBA-CM3”字段，下面有一个map。从上到下为Button0-ButtonX（我没数过有多少个）对应的功能。
+自行修改他们的顺序即可实现按键适配。
+
+键盘用户无需按键适配。
 
 ONScripter-Jh
 
