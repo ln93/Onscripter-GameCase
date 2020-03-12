@@ -15,7 +15,7 @@
 键盘用户无需按键适配。
 
 ## 编译：
-sudo apt-get install build-essential libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl-gfx1.2-dev
+sudo apt-get install build-essential libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl-gfx1.2-dev libbz2-dev libvorbisidec-dev
 
 make
 
